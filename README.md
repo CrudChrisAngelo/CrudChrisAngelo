@@ -1,3 +1,16 @@
+<h1 align="center" style="color:#ff7a00;">Chris Angelo Crud</h1>
+<h3 align="center">Systems Developer • Coomputer Engineer</h3>
+
+<p align="center">
+  <img src="[https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF7A00&center=true&vCenter=true&width=760&lines=AI+%26+Computer+Vision+Engineer;Embedded+Systems+Developer;Full+Stack+Engineer;Hardware+%2B+Software+Builder](https://readme-typing-svg.herokuapp.com/?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Systems+Developer;Embedded+Systems+Engineer;Full+Stack+Developer;Hardware+%2B+Software+Integrator;IoT+%26+Automation+Builder)" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrudChrisAngelo&color=green&style=for-the-badge" />
+</p>
+
+---
+
 # 💫 About Me:
 Hey, I’m Chris Angelo, a Computer Engineering graduate from Pampanga State University — formerly known as Don Honorio Ventura State University (DHVSU) with hands-on experience in web and application development, database integration, and machine learning research. Skilled in HTML, CSS, JavaScript, Python, Java, and Flutter, with projects ranging from responsive portfolios and ordering systems to medical device research and mobile game development.<br><br>Demonstrating strong adaptability, time management, and problem-solving skills. Eager to apply technical expertise and collaborative mindset to deliver reliable, user-focused solutions in professional environments.<br><br>Right now, I’m focused on building experience, gaining knowledge, and most importantly, enjoying the journey. I’m not rushing into anything. I want to stay passionate, stay curious, and keep doing work that feels meaningful and exciting.<br><br>When I’m not coding or geeking out over tech stuff, I usually spend my time watching random YouTube videos, working out, or just taking a break to clear my head. I try to keep things balanced, learn hard, chill harder.
 
