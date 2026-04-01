@@ -2,7 +2,7 @@
 <h3 align="center">Systems Developer • Computer Engineer</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF7A00&center=true&vCenter=true&width=760&lines=AI+%26+Computer+Vision+Engineer;Embedded+Systems+Developer;Full+Stack+Engineer;Hardware+%2B+Software+Builder](https://readme-typing-svg.herokuapp.com/?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Systems+Developer;Embedded+Systems+Engineer;Full+Stack+Developer;Hardware+%2B+Software+Integrator;IoT+%26+Automation+Builder)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Systems+Developer;Embedded+Systems+Engineer;Full+Stack+Developer;Hardware+%2B+Software+Integrator;IoT+%26+Automation+Builder" />
 </p>
 
 <p align="center">
